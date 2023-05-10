@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dementia_Virtual_Memory_App</string>
+    
+    <string name="facebook_app_id">214175094567512</string>
+    <string name="fb_login_protocol_scheme">fb214175094567512</string>
+    <string name="facebook_client_token">5dada9fb73bdacf5de0817bfe3c60101</string>
+
+
+</resources>
