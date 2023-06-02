@@ -1,3 +1,7 @@
-Dementia Virtual Memory App is a mobile-based memory storing app that can help user to store their memory. The project is aims to resolve the problem that faced by a dementia patient daily. This project also aims to let caregivers keep track on the patients’ emotion on daily basis. Since dementia patients often suffer from loss of memory and communication skills, the application can be used as a memory storage device and help users regain their
-2
-language and communication skills. With the usage of the text-to-speech feature implemented in this application, it helps the user can use it as a guide to understand what they had stored in the system. In terms of data storage, the user can store various types of data in this application such as photos, daily tasks and personal information.
+# Dementia Virtual Memory App
+Dementia Virtual Memory App is a mobile-based memory storing app that can help user to store their memory.
+
+## Getting Started
+Dementia Virtual Memory App involves 3 main modules which are Photo Album, Daily Task and Mood Detector. 
+
+### Photo Album
